@@ -15,5 +15,5 @@ It is achieved by modelling a neural network that will have to be trained over a
 6. Pandas<br>
 
 **Dataset Used**<br>
-The dataset for this project contains 372450 images of alphabets of 28x2 in the form of csv file.<br>
+The dataset for this project contains 3,72,450 images of alphabets of 28x2 in the form of csv file.<br>
 Dataset can be downloaded from [here](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format).
